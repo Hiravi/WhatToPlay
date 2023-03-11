@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">What to play today</string>
+    <string name="button_list">Game List</string>
+    <string name="button_list_description">Button game list</string>
+    <string name="button_roll">Roll</string>
+    <string name="button_roll_description">Button roll</string>
+    <string name="button_bestof">Best of</string>
+    <string name="button_bestof_description">Button best of</string>
+    <string name="top_bar_gamelist">Game top</string>
+</resources>
